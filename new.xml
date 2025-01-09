@@ -20,4 +20,6 @@
     <student sex="male" course="xml">Stanley</student>
     <student sex="female" course="html">Eri</student>
     <student sex="male" course="react">Mofe</student>
+    <student sex="male" course="sql">Kelvin</student>
+    <student sex="male" course="vue">Fawaz</student>
 </fellows>
