@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <class>
+    <student sex="male" course="json">Stanley</student>
+    <student sex="male" course="xml">Mofe</student>
+    <student sex="female" course="xml">Eri</student>
+    <student sex="male" course="c-sharp">Mustapha</student> 
+</class> -->
+
+<!-- <group>
+    <student>
+        <name>Stanley</name>
+        <sex>male</sex>
+        <course>json</course>
+    </student>
+</group> -->
+
+<fellows>
+    <student sex="male" course="js">Samuel</student>
+    <student sex="male" course="json">Mustapha</student>
+    <student sex="male" course="xml">Stanley</student>
+    <student sex="female" course="html">Eri</student>
+    <student sex="male" course="react">Mofe</student>
+</fellows>
